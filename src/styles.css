@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.quick-filter-tag-main {
+  margin: 5px;
+}
+span.anticon.anticon-close {
+  margin-left: 5px;
+  font-size: 10px;
+}
